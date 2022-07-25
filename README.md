@@ -17,7 +17,7 @@ I am an experienced self-taught software engineer, a qualified AI engineer and a
 
 ## 🔭 I'm currently working on
 - Building a portfolio and documenting my projects
-- An NFT cross platform mobile application
+- An NFT market place cross platform mobile application
 - An NFT recommender system to incoporate into the NFT mobile application i am currently building
 - Maintaining some of my current projects
 
