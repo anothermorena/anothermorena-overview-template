@@ -1,32 +1,31 @@
-<p align="center">
-  <img alt="GIF" src="https://github.com/franck225-coder/franck225-coder/blob/main/introGif.gif" />
-</p>
+<h1 align="center">Ahoy World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 <h3 align="center">
-  Hi there, I am <strong>Franck Armand</strong>
+   I am <strong>Otsogile Onalepelo aka Morena</strong>
   <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px">-->
 </h3>
 
 <h2 align="center">
-I'm an AI Engineer, Data Scientist and Software Developer !
+    Biomedical Engineer || AI Engineer || Software Engineer
 </h2> 
 
-I love the entire process of empowering machines with human reasoning capabilities as well as its application in order to solve specific problems. Taking into account the rapid evolution of data, building and deploying these models contribute in extracting valuable insights from data. I am also an open-source enthusiast, I have learned a lot from the open-source community, through collaboration and knowledge sharing.
+I am an experienced self-taught software engineer, a qualified AI engineer and an allied health professional. A multipotentialite if you may. With the ability to quickly learn complex things on a need-to-know basis and apply them. My leisure time is spent researching and learning business & economic models, and how they can be optimized using technology.
 
 <hr>
 
 ## 🔭 I'm currently working on
 - Building a portfolio and documenting my projects
-- A mobile application payement system
-- A group project with other developpers
-- An AI & Data science tutorial project
-- A scientific research paper (publication)
-- Maintaining some of my old projects
+- An NFT cross platform mobile application
+- An NFT recommender system to incoporate into the NFT mobile application i am currently building
+- Maintaining some of my current projects
 
 ## 🌱 I'm currently learning
 - New AI & DL methods and models
 - Keep myself updated with data releted techniques and methods
-- Advance programming skills
+- Advanced programming skills
+- New programming frameworks and libraries 
 
 ## 💼 Technical Skills
 
@@ -88,14 +87,13 @@ I love the entire process of empowering machines with human reasoning capabiliti
 <hr>
 
 
-### 🤝 Connect with me:
+### 🤝 Get in touch:
 
-<a href="https://www.linkedin.com/in/franck-kouassi-3b31157b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Franck Armand | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/franck__armand"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/bwooo/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Otsogile Onalepelo (Morena) | LinkedIn" width="21px"/></a>
 <br>
-- 💼 For any collaboaration or freelance work, you can reach me here => [email](mailto:armand21@hotmail.com)
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-- For any suggestions concerning my README, you can pull a request. Moreover, if you find it useful go ahead and customize it, to suit your design. (P.S. You can also leave a star ahah it wouldn't hurt your code !!:grimacing: )
+- 💼 For any collaboaration or freelance work, lets connect => [email](mailto:hireme@morena.dev)
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
+
 
 <hr>
 ⚡ Fun fact: Yay ! a different error message...Finally some progress !
